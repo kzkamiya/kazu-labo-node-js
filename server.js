@@ -37,7 +37,7 @@ var usersById = {},
     usersByFacebookId = {},
     usersByTwitId = {},
     usersByLogin = {
-        'user@example.com': addUser({ email: 'user@example.com', password: 'azure' })
+        'aomai@aomai.jp': addUser({ email: 'aomai@aomai.jp', password: 'aomaiazure' })
     };
 
 everyauth.
